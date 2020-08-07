@@ -35,6 +35,11 @@
 - [Intro to Kotlin](https://jaskaran.wmdd.ca/index.php/2020/02/22/intro-to-kotlin/)
 - [React Router](https://jaskaran.wmdd.ca/index.php/2020/02/15/react-router/)
 - [TensorFlow.js](https://jaskaran.wmdd.ca/index.php/2020/02/08/tensorflow-js/)
+- [Blockchain for Noobs](https://jaskaran.wmdd.ca/index.php/2020/02/01/blockchain-for-noobs/)
+- [Props vs States in React.js](https://jaskaran.wmdd.ca/index.php/2020/01/25/props-vs-states-in-react-js/)
+- [3 Women Who Made The Tech Community Proud](https://medium.com/netscrew-technologies/3-women-who-made-the-tech-community-proud-f9963ce92e77?source=rss-b9cf147fbc9e------2)
+- [Elucidating Arrow Functions in JavaScript](https://medium.com/netscrew-technologies/elucidating-arrow-functions-in-javascript-236d91bcbf5d?source=rss-b9cf147fbc9e------2)
+- [var, let & const — An Overview and Comparison](https://medium.com/netscrew-technologies/var-let-const-an-overview-and-comparison-3f1220b21774?source=rss-b9cf147fbc9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="TheCoderSingh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheCoderSingh&show_icons=true&hide_border=true&theme=prussian&count_private=true" />
