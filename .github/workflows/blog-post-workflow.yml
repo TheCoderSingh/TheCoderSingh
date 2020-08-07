@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  update-readme-with-publications:
+  update-readme-with-blog:
     name: Update README with latest publications
     runs-on: ubuntu-latest
     steps:
