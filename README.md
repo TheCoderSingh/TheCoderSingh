@@ -36,7 +36,7 @@
 - [3 Women Who Made The Tech Community Proud](https://medium.com/netscrew-technologies/3-women-who-made-the-tech-community-proud-f9963ce92e77)
 <!-- PUBLICATIONS-LIST:END -->
 
-<img align="left" alt="TheCoderSingh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="TheCoderSingh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheCoderSingh&show_icons=true&hide_border=true" />
 
 [website]: https://thecodersingh.com
 [twitter]: https://twitter.com/TheCoderSingh
