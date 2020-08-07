@@ -30,7 +30,7 @@
 
 ### 📕 Publications
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="TheCoderSingh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheCoderSingh&show_icons=true&hide_border=true" />
 
