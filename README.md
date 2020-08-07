@@ -30,10 +30,11 @@
 
 ### 📕 Publications
 <!-- BLOG-POST-LIST:START -->
-- [3 Women Who Made The Tech Community Proud](https://medium.com/netscrew-technologies/3-women-who-made-the-tech-community-proud-f9963ce92e77?source=rss-b9cf147fbc9e------2)
-- [Elucidating Arrow Functions in JavaScript](https://medium.com/netscrew-technologies/elucidating-arrow-functions-in-javascript-236d91bcbf5d?source=rss-b9cf147fbc9e------2)
-- [var, let & const — An Overview and Comparison](https://medium.com/netscrew-technologies/var-let-const-an-overview-and-comparison-3f1220b21774?source=rss-b9cf147fbc9e------2)
-- [The World of Pawn](https://medium.com/netscrew-technologies/the-world-of-pawn-a80cd2731606?source=rss-b9cf147fbc9e------2)
+- [My Contributions to Aura](https://jaskaran.wmdd.ca/index.php/2020/04/02/my-contributions-to-aura/)
+- [Progress Report (March 29, 2020)](https://jaskaran.wmdd.ca/index.php/2020/03/29/progress-report-march-29-2020/)
+- [Progress Report (March 22, 2020)](https://jaskaran.wmdd.ca/index.php/2020/03/22/progress-report-march-22-2020/)
+- [Design Patterns in JavaScript](https://jaskaran.wmdd.ca/index.php/2020/03/21/design-patterns-in-javascript/)
+- [Progress Report (March 15, 2020)](https://jaskaran.wmdd.ca/index.php/2020/03/15/progress-report-march-15-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="TheCoderSingh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheCoderSingh&show_icons=true&hide_border=true&theme=prussian&count_private=true" />
