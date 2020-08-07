@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@JaskaranSingh01,https://jaskaran.wmdd.ca/index.php/category/research/feed/"
-          max_post_count: "10"
+          max_post_count: 10
           
