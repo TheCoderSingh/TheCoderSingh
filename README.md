@@ -30,11 +30,11 @@
 
 ### 📕 Publications
 <!-- BLOG-POST-LIST:START -->
-- [My Contributions to Aura](https://jaskaran.wmdd.ca/index.php/2020/04/02/my-contributions-to-aura/)
-- [Progress Report (March 29, 2020)](https://jaskaran.wmdd.ca/index.php/2020/03/29/progress-report-march-29-2020/)
-- [Progress Report (March 22, 2020)](https://jaskaran.wmdd.ca/index.php/2020/03/22/progress-report-march-22-2020/)
 - [Design Patterns in JavaScript](https://jaskaran.wmdd.ca/index.php/2020/03/21/design-patterns-in-javascript/)
-- [Progress Report (March 15, 2020)](https://jaskaran.wmdd.ca/index.php/2020/03/15/progress-report-march-15-2020/)
+- [Creating an API in Express.js](https://jaskaran.wmdd.ca/index.php/2020/03/07/creating-an-api-in-express-js/)
+- [Intro to Kotlin](https://jaskaran.wmdd.ca/index.php/2020/02/22/intro-to-kotlin/)
+- [React Router](https://jaskaran.wmdd.ca/index.php/2020/02/15/react-router/)
+- [TensorFlow.js](https://jaskaran.wmdd.ca/index.php/2020/02/08/tensorflow-js/)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="TheCoderSingh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheCoderSingh&show_icons=true&hide_border=true&theme=prussian&count_private=true" />
