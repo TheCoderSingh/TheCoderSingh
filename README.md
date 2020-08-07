@@ -36,7 +36,7 @@
 - [The World of Pawn](https://medium.com/netscrew-technologies/the-world-of-pawn-a80cd2731606?source=rss-b9cf147fbc9e------2)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="TheCoderSingh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheCoderSingh&show_icons=true&hide_border=true&theme=prussian" />
+<img align="left" alt="TheCoderSingh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheCoderSingh&show_icons=true&hide_border=true&theme=prussian&count_private=true" />
 
 [website]: https://thecodersingh.com
 [twitter]: https://twitter.com/TheCoderSingh
