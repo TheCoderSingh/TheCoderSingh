@@ -1,6 +1,6 @@
 ### Hi there, I'm Jaskaran - aka [TheCoderSingh][website] 👋
 
-## I am an aspiring software engineering with a vision to revolutionize the world through code!
+## I am an aspiring software engineer with a vision to revolutionize the world through code!
 - 🌱 I'm currently learning cyber security
 - ⚡ Fun Fact: I love ice skating
 
