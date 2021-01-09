@@ -1,7 +1,7 @@
 ### Hi there, I'm Jaskaran - aka [TheCoderSingh][website] 👋
 
 ## I am an aspiring software engineer with a vision to revolutionize the world through code!
-- 🌱 I'm currently learning Advanced React
+- 🌱 I'm currently learning advanced React
 - ⚡ Fun Fact: I love ice skating
 
 ### Connect with me:
