@@ -1,6 +1,6 @@
 <!-- Animated Typing Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=600&lines=Software+Engineer;Community+Builder;Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=600&lines=Software+Engineer;Community+Builder" alt="Typing SVG">
 </h1>
 
 <h3 align="center">💻 Building meaningful digital experiences from Vancouver, Canada 🇨🇦</h3>
@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://thecodersingh.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://linkedin.com/in/TheCoderSingh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/TheCoderSingh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/TheCoderSingh" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://instagram.com/codersingh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
@@ -18,7 +18,7 @@
 I'm a **software engineer** passionate about building products that matter and a **community builder** who believes technology should bring people together.  
 
 - 🚀 **Co-founder & Frontend Engineer @ [Twiine](https://twiine.app)** — building the future of professional networking  
-- ☕ **Founder @ [Ctrl+Alt+Meet](https://lu.ma/ctrl-alt-meet)** — weekly coffee chats connecting developers & creatives  
+- ☕ **Founder @ [Ctrl+Alt+Meet](https://lu.ma/ctrlaltmeet)** — weekly coffee chats connecting developers & creatives  
 - 💡 Love creating **human-centered digital experiences** with React, Node.js, and modern web technologies  
 - 🌍 Based in **Vancouver, Canada**  
 - ⚡ Fun fact: I organize events, explore coffee shops, and ice skate when I’m not coding  
@@ -41,7 +41,7 @@ I'm a **software engineer** passionate about building products that matter and a
 ---
 
 ## 🚀 Featured Projects
-- **[Twiine](https://twiine.app)** — Building authentic professional connections (React Native, Node.js, MongoDB)  
+- **[Twiine](https://twiine.framer.website)** — Building authentic professional connections (React Native, Node.js, MongoDB)  
 - **Crypto Tracker** — Real-time crypto watchlist with live market analytics (React, REST APIs, MySQL)  
 - **Aura** — Travel planner with real-time air quality insights (React, Node.js, MySQL)  
 - **Alunos** — Homestay management platform (Vue.js, Laravel, GraphQL)  
