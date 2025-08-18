@@ -42,9 +42,9 @@ I'm a **software engineer** passionate about building products that matter and a
 
 ## 🚀 Featured Projects
 - **[Twiine](https://twiine.framer.website)** — Building authentic professional connections (React Native, Node.js, MongoDB)  
-- **Crypto Tracker** — Real-time crypto watchlist with live market analytics (React, REST APIs, MySQL)  
-- **Aura** — Travel planner with real-time air quality insights (React, Node.js, MySQL)  
-- **Alunos** — Homestay management platform (Vue.js, Laravel, GraphQL)  
+- **[Crypto Tracker](https://crypto.thecodersingh.com)** — Real-time crypto watchlist with live market analytics (React, REST APIs, MySQL)  
+- **[Aura](https://aura.thecodersingh.com)** — Travel planner with real-time air quality insights (React, Node.js, MySQL)  
+- **[Alunos](https://alunos.thecodersingh.com)** — Homestay management platform (Vue.js, Laravel, GraphQL)  
 ➡️ [View more projects on GitHub](https://github.com/TheCoderSingh?tab=repositories)  
 
 ---
