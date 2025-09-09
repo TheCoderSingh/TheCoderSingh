@@ -17,7 +17,7 @@
 ## 🌱 About Me
 I'm a **software engineer** passionate about building products that matter and a **community builder** who believes technology should bring people together.  
 
-- 🚀 **Co-founder & Frontend Engineer @ [Twiine](https://twiine.framer.website)** — building the future of professional networking  
+- 🚀 **Co-founder & Frontend Engineer @ [Twiine](https://twiineapp.com)** — building the future of professional networking  
 - ☕ **Founder @ [Ctrl+Alt+Meet](https://lu.ma/ctrlaltmeet)** — weekly coffee chats connecting developers & creatives  
 - 💡 Love creating **human-centered digital experiences** with React, Node.js, and modern web technologies  
 - 🌍 Based in **Vancouver, Canada**  
