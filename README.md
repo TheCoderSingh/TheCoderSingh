@@ -21,7 +21,7 @@ I'm a **software engineer** passionate about building products that matter and a
 - ☕ **Founder @ [Ctrl+Alt+Meet](https://lu.ma/ctrlaltmeet)** — weekly coffee chats connecting developers & creatives  
 - 💡 Love creating **human-centered digital experiences** with React, Node.js, and modern web technologies  
 - 🌍 Based in **Vancouver, Canada**  
-- ⚡ Fun fact: I organize events, explore coffee shops, and go ice skate when I’m not coding  
+- ⚡ Fun fact: I **organize events, explore coffee shops, and go ice skating** when I’m not coding  
 
 ---
 
